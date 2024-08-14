@@ -1,0 +1,3 @@
+admin: vietthanh@gmail.com
+user: vietthanh2508@gmail.com
+pass all: 12345678
